@@ -1,14 +1,29 @@
+name: Entretenimientos
+favicon: null
 layout_spectrum: 0.2482466
+typography_spectrum: 0.7849463
+title: American Bar
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  lightness: 0
-  brandStrength: 0.734767
   brandColors:
     - '#FFFFFF'
     - '#125688'
     - '#E1CFBE'
     - '#201615'
     - '#A5A7AA'
+  brandStrength: 0.734767
+  lightness: 0
+  saturation: 1
   rhythmicContrast: 0.4103943
-typography_spectrum: 0.7849463
-name: Entretenimientos
+purpose: []
